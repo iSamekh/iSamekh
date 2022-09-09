@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Visitor Count](https://profile-counter.glitch.me/iSamekh/count.svg)
-![visitor Count](https://profile-badge.glitch.me/iSamekh/badge?page_id=page.id&left_color=black&right_color=darkred)
+
 <!--
 **iSamekh/iSamekh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
