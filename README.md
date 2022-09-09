@@ -1,5 +1,6 @@
-### Hi there 👋
-![Visitor Count](https://profile-counter.glitch.me/iSamekh/count.svg)
+### High five 👋
+
+ <img src="https://visitor-badge.glitch.me/badge?page_id=iSamekh.id.visitor-badge.issue.1&left_color=black&right_color=green&left_text=Visitors" alt="visitor badge"/>
 
 <!--
 **iSamekh/iSamekh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
