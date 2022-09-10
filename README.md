@@ -1,5 +1,32 @@
 <div align="center"> <h1 align="center"><strong>High five</strong>👋</h1> </div>
 
+<table width="100%">
+
+
+<h2>Programing || Markup Languages</h2>
+          
+<img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/> <img width=10% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg"/> <img src="https://cdn.betterttv.net/emote/60445fa3306b602acc5985a1/3x">
+                
+
+
+
+<h2>Frameworks || Libraries</h2>
+
+<h2>Databases || Cloud Hosting</h2>
+
+<h2>Softwares || Tools</h2>
+
+<h2>Operational Systems</h2>
+
+
+
+
+
+          
+</table>
+
+
+
 
 <div align="center">
 
@@ -12,6 +39,6 @@
 
 <div align="center">
 
-<img width="180" height="60" src="https://visitor-badge.glitch.me/badge?page_id=iSamekh.id.visitor-badge.issue.1&left_color=black&right_color=darkred&left_text=F5" alt="visitor badge"/>
+<img width="180em" height="60em" src="https://visitor-badge.glitch.me/badge?page_id=iSamekh.id.visitor-badge.issue.1&left_color=black&right_color=darkred&left_text=F5" alt="visitor badge"/>
 
 </div>
