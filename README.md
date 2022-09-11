@@ -4,7 +4,7 @@
 
 <table>
 <tr><td>
-<img align="left" src="https://cdn.betterttv.net/emote/61480095b63cc97ee6d261ac/2x"> <img align="right" src="https://cdn.betterttv.net/emote/61480095b63cc97ee6d261ac/2x"> <h2 align="center">Programing || Markup Languages</h2>
+<!--<img align="left" src="https://cdn.betterttv.net/emote/61480095b63cc97ee6d261ac/2x"> <img align="right" src="https://cdn.betterttv.net/emote/61480095b63cc97ee6d261ac/2x"> --><h2 align="center">Programing || Markup Languages</h2>
 </td></tr>
 <tr><td>
 <div align="center">
@@ -15,7 +15,7 @@
 
 <table>
 <tr><td>
-<img align="left" src="https://cdn.betterttv.net/emote/569c12df74e294571e59fded/2x"> <img align="right" src="https://cdn.betterttv.net/emote/569c12df74e294571e59fded/2x"> <h2 align="center">Frameworks || Libraries</h2>
+<!--<img align="left" src="https://cdn.betterttv.net/emote/569c12df74e294571e59fded/2x"> <img align="right" src="https://cdn.betterttv.net/emote/569c12df74e294571e59fded/2x"> --><h2 align="center">Frameworks || Libraries</h2>
 </td></tr>
 <tr><td>
 <div align="center"> 
@@ -26,7 +26,7 @@
 
 <table>
 <tr><td>
-<img align="left" src="https://cdn.betterttv.net/emote/6087488d39b5010444d06dff/2x"> <img align="right" src="https://cdn.betterttv.net/emote/6087488d39b5010444d06dff/2x"> <h2 align="center">Databases || Cloud Hosting</h2>
+<!--<img align="left" src="https://cdn.betterttv.net/emote/6087488d39b5010444d06dff/2x"> <img align="right" src="https://cdn.betterttv.net/emote/6087488d39b5010444d06dff/2x"> --><h2 align="center">Databases || Cloud Hosting</h2>
 </td></tr>
 <tr><td>
 <div align="center"> 
@@ -37,8 +37,7 @@
 
 <table>
 <tr><td>
-<img align="left" src="https://cdn.betterttv.net/emote/5d82600ec0652668c9e4e2f2/2x"> <img align="right" src="https://cdn.betterttv.net/emote/5d82600ec0652668c9e4e2f2/2x"> 
-<h2 align="center">Softwares || Tools</h2>
+<!--<img align="left" src="https://cdn.betterttv.net/emote/5d82600ec0652668c9e4e2f2/2x"> <img align="right" src="https://cdn.betterttv.net/emote/5d82600ec0652668c9e4e2f2/2x"> --><h2 align="center">Softwares || Tools</h2>
 </td></tr>
 <tr><td>
 <div align="center">
@@ -49,7 +48,7 @@
 
 <table>
 <tr><td>
-<img align="left" src="https://cdn.betterttv.net/emote/5e2dea282a2ac47ce3e29fb5/2x"> <img align="right" src="https://cdn.betterttv.net/emote/5e2dea282a2ac47ce3e29fb5/2x"> <h2 align="center">Operational Systems</h2>
+<!--<img align="left" src="https://cdn.betterttv.net/emote/5e2dea282a2ac47ce3e29fb5/2x"> <img align="right" src="https://cdn.betterttv.net/emote/5e2dea282a2ac47ce3e29fb5/2x"> --><h2 align="center">Operational Systems</h2>
 </td></tr>
 <tr><td>
 <div align="center">
