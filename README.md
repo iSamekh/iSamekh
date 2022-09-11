@@ -1,10 +1,10 @@
 <h1 align="center">High five👋</h1>
-<div align="center"><img src="https://cdn.betterttv.net/emote/60445fa3306b602acc5985a1/3x"></div>
 
 </br></br>
+
 <table>
 <tr><td>
-<h2 align="center">Programing || Markup Languages</h2>
+<img align="left" src="https://cdn.betterttv.net/emote/61480095b63cc97ee6d261ac/2x"> <img align="right" src="https://cdn.betterttv.net/emote/61480095b63cc97ee6d261ac/2x"> <h2 align="center">Programing || Markup Languages</h2>
 </td></tr>
 <tr><td>
 <div align="center">
@@ -15,7 +15,7 @@
 
 <table>
 <tr><td>
-<h2 align="center">Frameworks || Libraries</h2>
+<img align="left" src="https://cdn.betterttv.net/emote/569c12df74e294571e59fded/2x"> <img align="right" src="https://cdn.betterttv.net/emote/569c12df74e294571e59fded/2x"> <h2 align="center">Frameworks || Libraries</h2>
 </td></tr>
 <tr><td>
 <div align="center"> 
@@ -26,7 +26,7 @@
 
 <table>
 <tr><td>
-<h2 align="center">Databases || Cloud Hosting</h2>
+<img align="left" src="https://cdn.betterttv.net/emote/6087488d39b5010444d06dff/2x"> <img align="right" src="https://cdn.betterttv.net/emote/6087488d39b5010444d06dff/2x"> <h2 align="center">Databases || Cloud Hosting</h2>
 </td></tr>
 <tr><td>
 <div align="center"> 
@@ -37,6 +37,7 @@
 
 <table>
 <tr><td>
+<img align="left" src="https://cdn.betterttv.net/emote/5d82600ec0652668c9e4e2f2/2x"> <img align="right" src="https://cdn.betterttv.net/emote/5d82600ec0652668c9e4e2f2/2x"> 
 <h2 align="center">Softwares || Tools</h2>
 </td></tr>
 <tr><td>
@@ -48,7 +49,7 @@
 
 <table>
 <tr><td>
-<h2 align="center">Operational Systems</h2>
+<img align="left" src="https://cdn.betterttv.net/emote/5e2dea282a2ac47ce3e29fb5/2x"> <img align="right" src="https://cdn.betterttv.net/emote/5e2dea282a2ac47ce3e29fb5/2x"> <h2 align="center">Operational Systems</h2>
 </td></tr>
 <tr><td>
 <div align="center">
@@ -62,7 +63,7 @@
 </br></br>
 <div align="center">
           
-<img src="https://cdn.betterttv.net/emote/5b7e01fbe429f82909e0013a/3x"> <img src="https://cdn.betterttv.net/emote/5f1b0186cf6d2144653d2970/3x"> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12147397265&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) <img src="https://cdn.betterttv.net/emote/5de88ccef6e95977b50e6eb1/3x"> <img src="https://cdn.betterttv.net/emote/5b7e01fbe429f82909e0013a/3x">
+<img src="https://cdn.betterttv.net/emote/5b7e01fbe429f82909e0013a/3x"> <img src="https://cdn.betterttv.net/emote/5f1b0186cf6d2144653d2970/3x"> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12147397265&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) <img src="https://cdn.betterttv.net/emote/5f2e2fcf6f378244660275ae/3x"> <img src="https://cdn.betterttv.net/emote/5b7e01fbe429f82909e0013a/3x">
 
 </div>
 
