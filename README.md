@@ -19,7 +19,7 @@
 </td></tr>
 <tr><td>
 <div align="center"> 
-<img width="96px%" src="https://cdn.betterttv.net/emote/5f8196b22bd46e4a86b12c0a/3x"> <img width="1%" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Invisible_Pink_Unicorn_High_Resolution.png">
+<img width="10%" src="https://cdn.betterttv.net/emote/5f8196b22bd46e4a86b12c0a/3x"> <img width="1%" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Invisible_Pink_Unicorn_High_Resolution.png">
 </div>
 </tr></td>
 </table>
@@ -70,6 +70,6 @@
 
 <div align="center">
 
-<img width="180em" height="60em" src="https://visitor-badge.glitch.me/badge?page_id=iSamekh.id.visitor-badge.issue.1&left_color=black&right_color=darkred&left_text=F5" alt="visitor badge"/>
+<img width="20%" src="https://visitor-badge.glitch.me/badge?page_id=iSamekh.id.visitor-badge.issue.1&left_color=black&right_color=darkred&left_text=F5" alt="visitor badge"/>
 
 </div>
