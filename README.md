@@ -1,4 +1,4 @@
-<header> <h1 align="center">Sup y'all! High five 👋</h1> </header>
+<header> <h1 align="center">Sup y'all!High five 👋</h1> </header>
 </br>
 <div align="center" width="50%">
 <img align="right" width="153px" src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif">
