@@ -1,6 +1,23 @@
-<h1 align="center">High five👋</h1>
+<header> <h1 align="center">Sup y'all! High five👋</h1> </header>
 
 </br></br>
+
+<div align="center">
+<img align="right" width="20%" src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif">
+
+```
+
+My name is Eric, aka Samekh 
+Currently practicing Javascript and C#
+Gonna pick a Framework soon
+Yet with doubt beetwen frontend and backend
+Also a ex-addicted gamer, only devoted now
+
+```
+
+
+</br></br>
+</div>
 
 <table>
 <tr><td>
