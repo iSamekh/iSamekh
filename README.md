@@ -2,8 +2,8 @@
 
 </br></br>
 
-<div align="center">
-<img align="right" width="20%" src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif">
+<div align="center" width="50%">
+<img align="right" width="170px" src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif">
 
 ```
 
