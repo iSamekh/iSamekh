@@ -1,7 +1,5 @@
 <header> <h1 align="center">Sup y'all! High five👋</h1> </header>
-
-</br></br>
-
+</br>
 <div align="center" width="50%">
 <img align="right" width="153px" src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif">
 
@@ -15,8 +13,7 @@ Also a ex-addicted gamer, only devoted now
 
 ```
 
-
-</br></br>
+</br>
 </div>
 
 <table>
@@ -73,7 +70,6 @@ Also a ex-addicted gamer, only devoted now
 </div>
 </tr></td>
 </table>
-
 
 <!-- -----Spotify----- -->
 </br></br>
