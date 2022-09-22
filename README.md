@@ -44,7 +44,7 @@ Also a ex-addicted gamer, only devoted now
 </td></tr>
 <tr><td>
 <div align="center"> 
-<img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> <img width="1%" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Invisible_Pink_Unicorn_High_Resolution.png">
+<img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg"/> <img width="1%" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Invisible_Pink_Unicorn_High_Resolution.png"/>
 </div>
 </tr></td>
 </table>
