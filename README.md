@@ -9,7 +9,7 @@ My name is Eric, aka Samekh
 Currently practicing Javascript and C#
 Gonna pick a Framework soon
 Yet with doubt between frontend or backend
-Also a ex-addicted gamer, only devoted now
+Acquiring knowledge through Alura and codecademy
 
 ```
 
