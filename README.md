@@ -1,10 +1,11 @@
-<header> <h1 align="center">High five 👋</h1> </header>
-</br>
+<header> <img src="https://www.nasa.gov/sites/default/files/thumbnails/image/bh_accretiondisk_sim_stationary_websize.gif"> </header>
+</hr>
 <div align="center" width="50%">
 <img align="right" width="153px" src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif">
 
 ```
 
+Wassup
 My name is Eric 
 Currently working with Java and SQL
 Also studyng React on free time
