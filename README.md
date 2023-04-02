@@ -5,11 +5,10 @@
 
 ```
 
-My name is Eric, aka Samekh 
-Currently practicing Javascript and C#
-Gonna pick a Framework soon
-Yet with doubt between frontend or backend
-Acquiring knowledge through Alura and codecademy
+My name is Eric 
+Currently working with Java and SQL
+Also studyng React on free time
+Acquiring knowledge through codecademy
 
 ```
 
