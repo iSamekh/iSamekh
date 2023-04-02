@@ -1,5 +1,6 @@
-<header> <img src="https://www.nasa.gov/sites/default/files/thumbnails/image/bh_accretiondisk_sim_stationary_websize.gif"> </header>
+<header>![bh_accretiondisk_sim_stationary_websize](https://user-images.githubusercontent.com/31543471/229384487-6f13abe4-e771-4f27-8587-27e8c08b5c81.gif)</header>
 </hr>
+
 <div align="center" width="50%">
 <img align="right" width="153px" src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif">
 
