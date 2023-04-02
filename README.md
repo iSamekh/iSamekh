@@ -32,7 +32,7 @@ Acquiring knowledge through codecademy
 </td></tr>
 <tr><td>
 <div align="center"> 
-<img width="10%" src="https://cdn.betterttv.net/emote/5f8196b22bd46e4a86b12c0a/3x"> <img width="1%" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Invisible_Pink_Unicorn_High_Resolution.png">
+<img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div>
 </tr></td>
 </table>
