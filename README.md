@@ -90,8 +90,8 @@ Acquiring knowledge through codecademy
 </div>
 
 <style>
-.test: {
+.test {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 </style>
