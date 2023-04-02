@@ -21,7 +21,7 @@ Acquiring knowledge through codecademy
 <h2 align="center">Programing || Markup Languages</h2>
 </td></tr>
 <tr><td>
-<div align="space-around">
+<div align="center">
 <img width="10%" title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/> <img width="10%" title="HTML 5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/> <img width="10%" title="CSS 3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/> <img width="10%" title="C Sharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg"/> <img width="10%" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
 </div>
 </tr></td>
