@@ -15,20 +15,13 @@ Acquiring knowledge through codecademy
 </br>
 </div>
 
-<style>
-.test {
-    display: flex;
-    justify-content: space-around;
-}
-</style>
-
 <table>
 <tr><td>
 <!--<img align="left" src="https://cdn.betterttv.net/emote/61480095b63cc97ee6d261ac/2x"> <img align="right" src="https://cdn.betterttv.net/emote/61480095b63cc97ee6d261ac/2x"> -->
 <h2 align="center">Programing || Markup Languages</h2>
 </td></tr>
 <tr><td>
-<div align="center" class="test">
+<div align="space-around">
 <img width="10%" title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/> <img width="10%" title="HTML 5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/> <img width="10%" title="CSS 3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/> <img width="10%" title="C Sharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg"/> <img width="10%" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
 </div>
 </tr></td>
@@ -52,7 +45,7 @@ Acquiring knowledge through codecademy
 <h2 align="center">Databases || Cloud Hosting</h2>
 </td></tr>
 <tr><td>
-<div align="center" style="display: flex justify-content: space-around"> 
+<div align="center"> 
 <img width="10%" title="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> <img width="10%" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> <img width="10%" title="SQL Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/> <img width="1%" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Invisible_Pink_Unicorn_High_Resolution.png"/>
 </div>
 </tr></td>
