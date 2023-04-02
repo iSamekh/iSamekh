@@ -15,6 +15,13 @@ Acquiring knowledge through codecademy
 </br>
 </div>
 
+<style>
+.test {
+    display: flex;
+    justify-content: space-around;
+}
+</style>
+
 <table>
 <tr><td>
 <!--<img align="left" src="https://cdn.betterttv.net/emote/61480095b63cc97ee6d261ac/2x"> <img align="right" src="https://cdn.betterttv.net/emote/61480095b63cc97ee6d261ac/2x"> -->
@@ -45,7 +52,7 @@ Acquiring knowledge through codecademy
 <h2 align="center">Databases || Cloud Hosting</h2>
 </td></tr>
 <tr><td>
-<div align="center"> 
+<div align="center" style="display: flex justify-content: space-around"> 
 <img width="10%" title="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> <img width="10%" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> <img width="10%" title="SQL Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/> <img width="1%" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Invisible_Pink_Unicorn_High_Resolution.png"/>
 </div>
 </tr></td>
@@ -88,10 +95,3 @@ Acquiring knowledge through codecademy
 <img width="20%" src="https://visitor-badge.glitch.me/badge?page_id=iSamekh.id.visitor-badge.issue.1&left_color=black&right_color=darkred&left_text=F5" alt="visitor badge"/>
 
 </div>
-
-<style>
-.test {
-    display: flex;
-    justify-content: space-around;
-}
-</style>
