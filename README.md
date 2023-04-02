@@ -22,7 +22,7 @@ Acquiring knowledge through codecademy
 </td></tr>
 <tr><td>
 <div align="center">
-<img width="10%" title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/> <img width="10%" title="HTML 5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/> <img width="10%" title="CSS 3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/> <img width="10%" title="C Sharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg"/> <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
+<img width="10%" title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/> <img width="10%" title="HTML 5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/> <img width="10%" title="CSS 3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/> <img width="10%" title="C Sharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg"/> <img width="10%" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
 </div>
 </tr></td>
 </table>
@@ -57,7 +57,7 @@ Acquiring knowledge through codecademy
 </td></tr>
 <tr><td>
 <div align="center">
-<img width="10%" title="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> <img width="10%" title="Photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/> <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"/> <img width="10%" title="Unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>
+<img width="10%" title="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> <img width="10%" title="Photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/> <img width="10%" title="Blender" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"/> <img width="10%" title="Unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>
 </div>
 </tr></td>
 </table>
@@ -68,7 +68,7 @@ Acquiring knowledge through codecademy
 </td></tr>
 <tr><td>
 <div align="center">
-<img width="10%" title="Windows NT" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/> <img width="10%" title=Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg"/> <img width="1%" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Invisible_Pink_Unicorn_High_Resolution.png">
+<img width="10%" title="Windows NT" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/> <img width="10%" title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg"/> <img width="1%" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Invisible_Pink_Unicorn_High_Resolution.png">
 </div>
 </tr></td>
 </table>
