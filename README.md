@@ -1,4 +1,9 @@
-<header>![bh_accretiondisk_sim_stationary_websize](https://user-images.githubusercontent.com/31543471/229384487-6f13abe4-e771-4f27-8587-27e8c08b5c81.gif)</header>
+<header>
+  
+  ![bh_accretiondisk_sim_stationary_websize](https://user-images.githubusercontent.com/31543471/229384487-6f13abe4-e771-4f27-8587-27e8c08b5c81.gif)
+
+</header>
+
 </hr>
 
 <div align="center" width="50%">
