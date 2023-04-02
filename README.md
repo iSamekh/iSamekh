@@ -1,10 +1,6 @@
 <header>
   
-![Digital_rain_banner](https://user-images.githubusercontent.com/31543471/229384773-7e331d2c-9070-4fa5-960c-69b7fd68eda6.gif)
-
-
-![4d1678e171347c4402c231dad0394f0f](https://user-images.githubusercontent.com/31543471/229384778-d77a3b19-8305-4ce5-bd31-3b233044cd66.gif)
-
+![798px-Matrix_Digital_rain_banner](https://user-images.githubusercontent.com/31543471/229385165-9c8ab018-d51c-4134-93e7-3697ea1e4905.gif)
   
 </header>
 
