@@ -83,17 +83,19 @@ Acquiring knowledge through codecademy
 </table>
 
 <!-- -----Spotify----- -->
+<!--
 </br></br>
 <div align="center">
 
 <img width="10%" src="https://cdn.betterttv.net/emote/5b7e01fbe429f82909e0013a/3x"> <img width="10%" src="https://cdn.betterttv.net/emote/5f1b0186cf6d2144653d2970/3x"> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12147397265&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) <img width="10%" src="https://cdn.betterttv.net/emote/5f2e2fcf6f378244660275ae/3x"> <img width="10%" src="https://cdn.betterttv.net/emote/5b7e01fbe429f82909e0013a/3x">
-
+*/
 </div>
-
+-->
 <!-- -----Visit Count----- -->
-
+<!--
 <div align="center">
 
 <img width="20%" src="https://visitor-badge.glitch.me/badge?page_id=iSamekh.id.visitor-badge.issue.1&left_color=black&right_color=darkred&left_text=F5" alt="visitor badge"/>
 
 </div>
+-->
